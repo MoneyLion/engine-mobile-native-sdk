@@ -11,7 +11,7 @@ let package = Package(
         .binaryTarget(
             name: "SwiftWrapperSdk",
             url: "https://github.com/MoneyLion/engine-mobile-native-sdk/releases/download/0.0.1-test/SwiftWrapperSdk-0.0.1-test.xcframework.zip",
-            checksum: "4491660fac42f5b358d77b3aed568ef8530a4d9b795e6050e3c210b75874b849"
+            checksum: "e15d70312dc6952071165ccf6557075b9ef9b0b825cffacc53c2185d32c92590"
         ),
     ]
 )
