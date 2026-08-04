@@ -1,7 +1,7 @@
-# Template
+# Engine Mobile SDKs for Kotlin & Swift
 
-This repository is a template to create new repository in MoneyLion.
+Native mobile SDKs for Kotlin (Android) and Swift (iOS) that embed Engine by MoneyLion's marketplace experiences directly inside your app.
 
-## Setting Up
+## More Information
 
-1. Fill up the [CODEOWNERS](./.github/CODEOWNERS) file
+For full documentation, see [Engine Mobile SDKs](https://engine.tech/developer-center/marketplace-integrations/mobile-sdks).
