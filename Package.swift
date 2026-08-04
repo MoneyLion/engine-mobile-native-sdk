@@ -2,16 +2,16 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwiftWrapperSdk",
+    name: "SwiftEngineSDK",
     platforms: [.iOS(.v15)],
     products: [
-        .library(name: "SwiftWrapperSdk", targets: ["SwiftWrapperSdk"]),
+        .library(name: "SwiftEngineSDK", targets: ["SwiftEngineSDK"]),
     ],
     targets: [
         .binaryTarget(
-            name: "SwiftWrapperSdk",
-            url: "https://github.com/MoneyLion/engine-mobile-native-sdk/releases/download/0.0.2/SwiftWrapperSdk-0.0.2.xcframework.zip",
-            checksum: "20f4e27dd43992e8838dbf8e0a5905ee1aeefbd01fdac092fc701e34de2c57cf"
+            name: "SwiftEngineSDK",
+            url: "https://github.com/MoneyLion/engine-mobile-native-sdk/releases/download/1.0.0/SwiftEngineSDK-1.0.0.xcframework.zip",
+            checksum: "71524fecf624075712466c7420dbd93725947737a17009bdd271b5b473772d3d"
         ),
     ]
 )
