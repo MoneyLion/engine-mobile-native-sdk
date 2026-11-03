@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SwiftEngineSDK",
-            url: "https://github.com/MoneyLion/engine-mobile-native-sdk/releases/download/1.1.0/SwiftEngineSDK-1.1.0.xcframework.zip",
-            checksum: "a652b9ef71d0d8da45341843418aaaeae2050c2c5071aea3f3aa9ad0d3bcb954"
+            url: "https://github.com/MoneyLion/engine-mobile-native-sdk/releases/download/1.2.0/SwiftEngineSDK-1.2.0.xcframework.zip",
+            checksum: "ae733aa5e945b3a757977aa29405247e0001f78f53028d77bec03f9aff5bf104"
         ),
     ]
 )
